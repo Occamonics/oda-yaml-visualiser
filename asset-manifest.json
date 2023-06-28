@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oda-yaml-visualiser/static/css/main.53c887f8.css",
+    "main.js": "/oda-yaml-visualiser/static/js/main.2c9173ec.js",
+    "static/js/787.744a1bcf.chunk.js": "/oda-yaml-visualiser/static/js/787.744a1bcf.chunk.js",
+    "index.html": "/oda-yaml-visualiser/index.html",
+    "main.53c887f8.css.map": "/oda-yaml-visualiser/static/css/main.53c887f8.css.map",
+    "main.2c9173ec.js.map": "/oda-yaml-visualiser/static/js/main.2c9173ec.js.map",
+    "787.744a1bcf.chunk.js.map": "/oda-yaml-visualiser/static/js/787.744a1bcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53c887f8.css",
+    "static/js/main.2c9173ec.js"
+  ]
+}
